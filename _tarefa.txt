@@ -1,0 +1,8 @@
+Criar 5 seções no documento, o conteúdo vc define
+
+Criar 5 itens de menu
+
+Fazer funcionar os itens de menu!
+
+
+CSS reset: https://meyerweb.com/eric/tools/css/reset/
